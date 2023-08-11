@@ -28,7 +28,7 @@ main {
 }
 
 .character-card {
-    height:14rem;
+    height:15rem;
     margin-top: .5rem;
     width:94vw;
     max-width: 230px;
@@ -48,7 +48,7 @@ main {
 @media(min-width:550px){
     .character-card {
         border: 0.2rem solid #000721;
-        height:22rem;
+        height:23rem;
         width:37vw;
     }
 }
@@ -106,9 +106,9 @@ main {
 
 .health-bar-outer {
     background: #171217;
-    height: 1vh;
+    height: 0.7vh;
     width:90%;
-    margin: 0 5%;
+    margin: 7px 5%;
     border-radius: 2px;
 }
 
